@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class TestAllo {
+public class TestMSport {
     static WebDriver driver;
     static String browser = "opera";
 
